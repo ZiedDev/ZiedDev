@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZiedDev
 - 👀 I’m interested in Game Development, Web Development 
 - 🌱 I’m currently learning Both Game and Web Development as much as I can
-- 📫 How to reach me on my WebSite that i hosted on GitHub Pages https://zieddev.github.io/ZiedDe-vSite/
+- 📫 How to reach me on my WebSite that i hosted on GitHub Pages https://zieddev.github.io/ZiedDevSite/
 -       The Source Code for it is available in https://github.com/ZiedDev/ZiedDevSite
 
 <!---
