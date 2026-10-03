@@ -1,0 +1,28 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual testing
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate AniList Card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/anilist.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Africa/Cairo
+          plugin_anilist: yes
+          plugin_anilist_user: NotZied
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, watching, reading
+          plugin_anilist_limit: 3
+          plugin_anilist_shuffle: yes

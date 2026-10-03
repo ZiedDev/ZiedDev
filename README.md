@@ -25,3 +25,6 @@ CCE student @ Alexandria Uni. I just really love building cool software and maki
 
 # 📊 GitHub Stats:
 ![](https://pixel-profile.vercel.app/api/github-stats?username=ZiedDev&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffDD)
+
+# 🌸 AniList:
+![AniList](./profile/anilist.svg)
