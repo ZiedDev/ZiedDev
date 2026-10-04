@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Hello Typing](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=900&size=36&duration=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=894&height=35&lines=Hello+there%2C+fellow+stranger!+%F0%9F%91%8B)](https://git.io/typing-svg) <br>
+[![Hello Typing](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=900&size=36&duration=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=894&height=40&lines=Hello+there%2C+fellow+stranger!+%F0%9F%91%8B)](https://git.io/typing-svg) <br>
 [![About Typing](https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=600&size=24&duration=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=894&height=80&lines=CCE+student+%40+Alexandria+Uni.;I+just+really+love+building+cool+software+and+making+things+to+help+others.)](https://git.io/typing-svg)
 
 ### 🌐 Socials:
