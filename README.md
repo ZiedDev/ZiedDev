@@ -24,7 +24,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://pixel-profile.vercel.app/api/github-stats?username=ZiedDev&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffDD)
+![](https://pixel-profile.vercel.app/api/github-stats?username=ZiedDev&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffEE)
 
 ![stats](./profile/stats.svg)
 ![top-langs](./profile/top-langs.svg)
